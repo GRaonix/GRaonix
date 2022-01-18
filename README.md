@@ -1,6 +1,4 @@
-### Hello 👋
-
-## Raoni Gillet
+### Raoni Gillet
 
 Junior developer 💻 @[Becode.org](https://becode.org)
 

@@ -5,7 +5,7 @@
 ![CSS3](https://github.com/GRaonix/assets/blob/58480f4ae6a19b8ee5a7ddfb98607ee1b07473ed/css-3.svg)
 ![MYSQL](https://github.com/GRaonix/assets/blob/58480f4ae6a19b8ee5a7ddfb98607ee1b07473ed/my-sql.svg)
 
-🐧 Linux user since more than 20 years.\
+🐧 Linux proficient since more than 20 years.\
 
 🌍 Languages : FR | EN 
 

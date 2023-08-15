@@ -6,6 +6,7 @@
 ![MYSQL](https://github.com/GRaonix/assets/blob/58480f4ae6a19b8ee5a7ddfb98607ee1b07473ed/my-sql.svg)
 
 🐧 Linux user since more than 20 years.\
-🔭 I’m actively looking for an intership starting in March 2022.\
+
 🌍 Languages : FR | EN 
+
 📬 How to reach me Linkedin[www.linkedin.com/in/raoni-gillet]

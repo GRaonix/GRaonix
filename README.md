@@ -1,4 +1,4 @@
-### Raoni Gillet
+### Raoni
 
 ![HTML](https://github.com/GRaonix/assets/blob/58480f4ae6a19b8ee5a7ddfb98607ee1b07473ed/html-5.svg)
 ![PHP](https://github.com/GRaonix/assets/blob/58480f4ae6a19b8ee5a7ddfb98607ee1b07473ed/php.svg)

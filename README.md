@@ -8,5 +8,3 @@
 🐧 Linux proficient since more than 20 years.\
 
 🌍 Languages : FR | EN 
-
-📬 How to reach me Linkedin[www.linkedin.com/in/raoni-gillet]
